@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IiSCcVJUJNX3yJmzukcwP984OQzM2Zmtx7b+pU7njGb4F7ommpyFOLeR6OxPquo3oWiqZ9Y6nFt3eSkdcwUO8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Orders\\MonopolyServers\\Dependencies\\GameServerParts\\GameServerParts\\GameServerParts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.testplatform\\17.1.0\\microsoft.testplatform.17.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

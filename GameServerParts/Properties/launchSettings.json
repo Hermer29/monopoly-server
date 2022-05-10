@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GameServerParts": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Project"
+    }
+  }
+}

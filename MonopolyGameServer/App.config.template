@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="ip" value="192.168.0.254"/>
+		<add key="lobbyPort" value="49001"/>
+		<add key="gamePort" value="49002"/>
+		<add key="connectionsLogsFilePath" value=".\logs\connection.log"/>
+		<add key="version" value="1.0.0"/>
+		
+		<!--PlayFab data:-->
+		<add key="playFabTitleId" value="your-value"/>
+		<add key="playFabDeveloperSecretKey" value="your-value"/>
+	</appSettings>
+</configuration>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dependencies/GameServerParts/GameServerParts" vcs="" />
+    <mapping directory="$PROJECT_DIR$/GameServerParts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MonopolyGameServer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MonopolyGameServer/MonopolyGameServer" vcs="" />
+    <mapping directory="$PROJECT_DIR$/MonopolyRoomServer" vcs="Git" />
+  </component>
+</project>
